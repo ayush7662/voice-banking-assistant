@@ -2,6 +2,11 @@
 
 A Python-based voice banking assistant that allows users to interact with a mock bank using voice commands. Features include checking account balance, transferring money, viewing recent transactions, and text-to-speech responses.
 
+
+GitHub Repository: https://github.com/ayush7662/voice-banking-assistant
+Demo Video: https://drive.google.com/file/d/1njbgmFS3OaYuBAKFWw5UwESyPp1A7E7N/view?usp=sharing
+
+
 ---
 
 ## Features
